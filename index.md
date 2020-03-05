@@ -1,3 +1,3 @@
 ## Geocode App
 
-[Project](https://GeocodeApp.github.io)
+[Project](https://hetalishah.github.io/GeocodeApp/)
